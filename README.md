@@ -1,3 +1,3 @@
 # Atividade_GCS
 Contato inicial com Github, um gerenciador de projetos.
-Esta péssimo!
+Esta otimo
